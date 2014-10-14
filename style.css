@@ -1,0 +1,22 @@
+html body {
+  height: 100%;
+  width: 100%;
+  background-color: #9AEEEE;
+  font-family: 'Pacifico', cursive;
+  font-size: 2em;
+}
+
+.taskbox {
+  margin: 200px auto;
+  width: 30%;
+  padding: 20px;
+  background-color: #fff;
+  border: 2px solid #888;
+  border-radius: 10px;
+};
+
+button.add-button {
+  background-color: #999;
+  padding: 5px;
+  margin: 0 auto;
+}
